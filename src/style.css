@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.form-check form-check-inline {
+  color: white;
+}
